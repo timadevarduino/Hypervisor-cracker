@@ -2,7 +2,7 @@
 :: ======================================================
 ::  Denuvo Hypervisor Prep Tool
 ::  Description: Enables Hyper-V and Disables VBS/HVCI
-::  Author: Your GitHub Username
+::  Author: timadevard
 :: ======================================================
 
 setlocal enabledelayedexpansion
